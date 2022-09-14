@@ -1,16 +1,12 @@
-# flutter_startupnamesgenerator
+# startup_names_generator
+a simple app that generates proposed names for a startup company. The user can select and unselect names, saving the best ones. The code lazily generates 10 names at a time. As the user scrolls, more names are generated. There is no limit to how far a user can scroll.
 
-A new Flutter project.
+## Preview
+<div>
+  <img src="https://user-images.githubusercontent.com/96690034/190178788-d26dedce-a03b-402a-9e75-35351966d4ed.png" width="300">
+  <img src="https://user-images.githubusercontent.com/96690034/190178717-56319c68-9ad3-45fe-b78f-89434251b1f2.png" width="300">
+</div>
 
-## Getting Started
+## youtube link
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[startup names generator](https://youtu.be/L7FTZOS4LL8)
